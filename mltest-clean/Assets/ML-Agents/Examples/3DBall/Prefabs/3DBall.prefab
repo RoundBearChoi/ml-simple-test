@@ -288,10 +288,10 @@ MonoBehaviour:
     VectorActionSize: 02000000
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
-  m_Model: {fileID: 11400000, guid: 5b6bc0b7af7347d40b6114641c7e380a, type: 3}
+  m_Model: {fileID: 5022602860645237092, guid: 2444736e8bd58564597531e7cc331cb8, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
-  m_BehaviorName: 3DBall_simpletest
+  m_BehaviorName: 3DBall_simpletest2
   TeamId: 0
   m_UseChildSensors: 1
 --- !u!114 &114715123104194396
